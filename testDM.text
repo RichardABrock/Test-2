@@ -1,0 +1,9 @@
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Occasion     1  21.60  21.600   25.04 3.33e-05 ***
+ArmL         2  23.47  11.734   13.60 9.07e-05 ***
+Residuals   26  22.43   0.863                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "Cohen's D"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.2712  0.2712  0.2712  0.2712  0.2712  0.2712 
